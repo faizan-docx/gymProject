@@ -1,12 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This gym website is a clean, responsive, and modern frontend project built with React.js, Tailwind CSS, and Framer Motion. It includes an animated landing page and well-structured sections to highlight gym services, trainer expertise, awards, contact details, and business hours. The site is designed to look great on all devices and provides a smooth, engaging user experience. With React Router managing page navigation and a modular component-based setup, the project is easy to maintain and scale. It's a great fit for fitness brands or developers looking to create a stylish gym or wellness site with modern UI practices.
